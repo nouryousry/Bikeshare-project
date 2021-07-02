@@ -1,3 +1,4 @@
-This project was part of Udacity nanodegree. 
+This project was part of Udacity nanodegree.
 The data used was that of bike share systems in major cities in the United States: New york city, Chicago and Washignton.
-The goal was to explore this data using Python along with two of its libraries- numpy and pandas. In addition, descriptive statistics were computed and an interactive experience was provided for the users by letting them define filters to output specific statistics. 
+The goal was to explore this data using Python along with two of its libraries- numpy and pandas. In addition, descriptive statistics were computed and an interactive experience was provided for the users by letting them define filters to output specific statistics.
+The link to my Udacity review for this project: https://review.udacity.com/?bsft_clkid=f37afbc3-14a1-4ca0-a6cd-8b90510ca51a&bsft_uid=d8205199-cc69-4ea4-bf3e-2345ca5ca1cf&bsft_mid=141c27a7-4ba6-4ef0-8008-711aa059207a&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_txnid=acef07fb-9f75-4075-99d7-3d77676972ec&bsft_mime_type=html&bsft_ek=2020-07-23T04:12:28Z#!/reviews/2443845
